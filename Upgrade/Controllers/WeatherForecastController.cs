@@ -13,7 +13,7 @@ namespace Upgrade.Controllers
     {
         private static readonly string[] Summaries = new[]
         {
-            "Item1", "Item2", "Item3", "Item4", "Item5", "Item6", "Balmy", "Hot", "Sweltering", "Scorching"
+            "Enero", "Febrero", "Marzo", "Abril", "Item5", "Item6", "Balmy", "Hot", "Sweltering", "Scorching"
         };
 
         private readonly ILogger<WeatherForecastController> _logger;
